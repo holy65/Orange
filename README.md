@@ -1,36 +1,12 @@
-Usage: gum input [flags]
+# Orange
 
-Prompt for some input
+You wake up in a house. You find an Orange in front of you. What will you do ?
 
-Flags:
-  -h, --help                   Show context-sensitive help.
-  -v, --version                Print the version number
+## Explore
 
-      --placeholder="Type something..."
-                               Placeholder value ($GUM_INPUT_PLACEHOLDER)
-      --prompt="> "            Prompt to display ($GUM_INPUT_PROMPT)
-      --cursor.mode="blink"    Cursor mode ($GUM_INPUT_CURSOR_MODE)
-      --value=""               Initial value (can also be passed via stdin)
-      --char-limit=400         Maximum value length (0 for no limit)
-      --width=0                Input width (0 for terminal width)
-                               ($GUM_INPUT_WIDTH)
-      --password               Mask input characters
-      --[no-]show-help         Show help keybinds ($GUM_INPUT_SHOW_HELP)
-      --header=""              Header value ($GUM_INPUT_HEADER)
-      --timeout=0s             Timeout until input aborts ($GUM_INPUT_TIMEOUT)
-      --[no-]strip-ansi        Strip ANSI sequences when reading from STDIN
-                               ($GUM_INPUT_STRIP_ANSI)
+There are plenty of things to do; also try to find hidden commands that are not listed !
 
-Style Flags
-  --prompt.foreground=""         Foreground Color ($GUM_INPUT_PROMPT_FOREGROUND)
-  --prompt.background=""         Background Color ($GUM_INPUT_PROMPT_BACKGROUND)
-  --placeholder.foreground="240"
-                                 Foreground Color
-                                 ($GUM_INPUT_PLACEHOLDER_FOREGROUND)
-  --placeholder.background=""    Background Color
-                                 ($GUM_INPUT_PLACEHOLDER_BACKGROUND)
-  --cursor.foreground="212"      Foreground Color ($GUM_INPUT_CURSOR_FOREGROUND)
-  --cursor.background=""         Background Color ($GUM_INPUT_CURSOR_BACKGROUND)
-  --header.foreground="240"      Foreground Color ($GUM_INPUT_HEADER_FOREGROUND)
-  --header.background=""         Background Color ($GUM_INPUT_HEADER_BACKGROUND)
+## Dedicace and credits
 
+I dedicace this game for a long friend of mine, Willlowwy !
+Game by Adam ELLOUZE, suggestions by M. Arouay.
